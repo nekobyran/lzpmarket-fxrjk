@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "name": "lzpmarket-fxrjk",
+  "title": "分享软件库",
+  "version": "1.0.0",
+  "versionMode": "semantic",
+  "publisher": "nekobyran",
+  "publisherAvatar": "assets\/258021052.jpg",
+  "description": "",
+  "icon": "assets\/primary-3A-2Fstorage-2Femulated-2F0-2FPictures-2.jpg",
+  "readme": "README.md",
+  "sources": "sources.lzp",
+  "categories": []
+}
